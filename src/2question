@@ -1,0 +1,4 @@
+"race condition" holati Hash Map da roya beradi.
+uning ma'nosi ikkta yoki kopro obektlarning hashCode bolingan sizega, bir hil bolib qolganda,
+ular ikkalsi ham bitta katakchadan joy olmoqchi boladi va 2 nchisi 1 chsi ustidan yozilib ketadi.
+Uning oldini olish uchun Olimlar prosto osha katakchaning nextga (Linked list) yozib ketishni oylab topishgan.

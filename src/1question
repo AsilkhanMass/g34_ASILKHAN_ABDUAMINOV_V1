@@ -1,0 +1,2 @@
+Volatile kalit sozi variable (field) dan oldin ishlatiladi.
+Uning maqsadi thread osha variablni ozining cashdan emas faqatgina main memoryga borib ma'nosi update qilib turadi.
